@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ed1f6c5-09c3-42ff-93eb-6d2c9f8aa42f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1iENQpXwIJvGSAlTaieFgPQMRAm" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+  </component>
+  <component name="RunAnythingContextRecentDirectoryCache">
+    <option name="paths">
+      <recentPaths value="$PROJECT_DIR$" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/-- template/index.html" useBuiltInWebServerPort="true">
+      <mapping url="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/data/js/libs/jquery-3.1.1.min.js" local-file="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ed1f6c5-09c3-42ff-93eb-6d2c9f8aa42f" name="Default Changelist" comment="" />
+      <created>1601468777915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601468777915</updated>
+      <workItem from="1601468778991" duration="1432000" />
+      <workItem from="1601470438436" duration="1744000" />
+      <workItem from="1601551488156" duration="976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1276" y="365" key="#Deployment" timestamp="1601469840473">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="1276" y="365" key="#Deployment/0.23.2560.1359@0.23.2560.1359" timestamp="1601469840473" />
+    <state x="1073" y="361" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601468891771">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="1073" y="361" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1359@0.23.2560.1359" timestamp="1601468891771" />
+    <state x="1464" y="461" key="FileChooserDialogImpl" timestamp="1601469349468">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="1464" y="461" key="FileChooserDialogImpl/0.23.2560.1359@0.23.2560.1359" timestamp="1601469349468" />
+    <state width="1738" height="388" key="GridCell.Tab.0.bottom" timestamp="1601479059773">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="1738" height="388" key="GridCell.Tab.0.bottom/0.23.2560.1359@0.23.2560.1359" timestamp="1601479059773" />
+    <state width="1738" height="388" key="GridCell.Tab.0.center" timestamp="1601479059772">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="1738" height="388" key="GridCell.Tab.0.center/0.23.2560.1359@0.23.2560.1359" timestamp="1601479059772" />
+    <state width="1738" height="388" key="GridCell.Tab.0.left" timestamp="1601479059772">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="1738" height="388" key="GridCell.Tab.0.left/0.23.2560.1359@0.23.2560.1359" timestamp="1601479059772" />
+    <state width="1738" height="388" key="GridCell.Tab.0.right" timestamp="1601479059773">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="1738" height="388" key="GridCell.Tab.0.right/0.23.2560.1359@0.23.2560.1359" timestamp="1601479059773" />
+    <state width="1738" height="388" key="GridCell.Tab.1.bottom" timestamp="1601479059775">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="1738" height="388" key="GridCell.Tab.1.bottom/0.23.2560.1359@0.23.2560.1359" timestamp="1601479059775" />
+    <state width="1738" height="388" key="GridCell.Tab.1.center" timestamp="1601479059774">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="1738" height="388" key="GridCell.Tab.1.center/0.23.2560.1359@0.23.2560.1359" timestamp="1601479059774" />
+    <state width="1738" height="388" key="GridCell.Tab.1.left" timestamp="1601479059774">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="1738" height="388" key="GridCell.Tab.1.left/0.23.2560.1359@0.23.2560.1359" timestamp="1601479059774" />
+    <state width="1738" height="388" key="GridCell.Tab.1.right" timestamp="1601479059774">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="1738" height="388" key="GridCell.Tab.1.right/0.23.2560.1359@0.23.2560.1359" timestamp="1601479059774" />
+    <state width="1738" height="476" key="GridCell.Tab.2.bottom" timestamp="1601479059768">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="1738" height="476" key="GridCell.Tab.2.bottom/0.23.2560.1359@0.23.2560.1359" timestamp="1601479059768" />
+    <state width="1738" height="476" key="GridCell.Tab.2.center" timestamp="1601479059767">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="1738" height="476" key="GridCell.Tab.2.center/0.23.2560.1359@0.23.2560.1359" timestamp="1601479059767" />
+    <state width="1738" height="476" key="GridCell.Tab.2.left" timestamp="1601479059767">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="1738" height="476" key="GridCell.Tab.2.left/0.23.2560.1359@0.23.2560.1359" timestamp="1601479059767" />
+    <state width="1738" height="476" key="GridCell.Tab.2.right" timestamp="1601479059767">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="1738" height="476" key="GridCell.Tab.2.right/0.23.2560.1359@0.23.2560.1359" timestamp="1601479059767" />
+    <state x="1110" y="338" key="SettingsEditor" timestamp="1601471522204">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="1110" y="338" key="SettingsEditor/0.23.2560.1359@0.23.2560.1359" timestamp="1601471522204" />
+    <state x="1216" y="435" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601471060283">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="1216" y="435" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.2560.1359@0.23.2560.1359" timestamp="1601471060283" />
+    <state x="1273" y="330" key="run.anything.popup" timestamp="1601470326166">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="1273" y="330" key="run.anything.popup/0.23.2560.1359@0.23.2560.1359" timestamp="1601470326166" />
+    <state x="1546" y="614" key="save.project.as.template.dialog" timestamp="1601469862336">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="1546" y="614" key="save.project.as.template.dialog/0.23.2560.1359@0.23.2560.1359" timestamp="1601469862336" />
+    <state x="1273" y="332" width="670" height="676" key="search.everywhere.popup" timestamp="1601471354604">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="1273" y="332" width="670" height="676" key="search.everywhere.popup/0.23.2560.1359@0.23.2560.1359" timestamp="1601471354604" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
